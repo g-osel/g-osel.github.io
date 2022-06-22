@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Technical/Academic Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Engineering projects from both <br />course work and extracurriculars.'
+image: assets/images/charm_headset.jpg
 nav-menu: true
 ---
 

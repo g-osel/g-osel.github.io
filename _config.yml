@@ -2,7 +2,7 @@
 title: GODSON OSELE
 subtitle:
 email: obum@stanford.edu
-description: A website dedicated to chronicling to work and passion projects of Obumneme Godson Osele
+description: A website dedicated to chronicling the work and passion projects of Obumneme Godson Osele
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Godson Osele
@@ -27,7 +27,7 @@ socials:
   Google-Plus:
   Instagram:
   LinkedIn: https://www.linkedin.com/in/godson-osele
-  Twitter: 
+  Twitter:
   Facebook:
   Slack:
 
