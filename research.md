@@ -2,7 +2,7 @@
 title: Research
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/charm_headset.jpg
+image: assets/images/icra_present.jpg
 nav-menu: true
 ---
 
