@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Presentations and Publications
 #image: assets/images/publications_icon.jpg
 nav-menu: true
