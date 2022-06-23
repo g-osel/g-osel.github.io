@@ -2,7 +2,7 @@
 title: Technical/Academic Projects
 layout: landing
 description: 'Engineering projects from both <br />course work and extracurriculars.'
-image: assets/images/charm_headset.jpg
+image: assets/images/charm_headset2.jpg
 nav-menu: true
 ---
 
