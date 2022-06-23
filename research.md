@@ -2,7 +2,7 @@
 title: Research
 layout: landing
 description: 'Below are the different <br />research opportunities I have participated in <br />or am currently involved with.'
-image: assets/images/icra_present.jpg
+image: assets/images/icra_present2.jpg
 nav-menu: true
 ---
 
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Rogers Research Group at Northwestern University</h3>
 				</header>
-				<p>This page showcases the research I was involved in during my time as a Undegraduate Research Aide as part of the Roger Research Group at Northwestern University led by John Rogers.</p>
+				<p>This page showcases the research I was involved in during my time as a Undegraduate Research Aide as part of the Roger Research Group at Northwestern University led by Professor John Rogers.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Kiser Research Lab at Northwestern University</h3>
 				</header>
-				<p>This page showcases the research I was involved in during my time as a Undegraduate Research Aide as part of the Kiser Research Lab at Northwestern University led by Patrick Kiser.</p>
+				<p>This page showcases the research I was involved in during my time as a Undegraduate Research Aide as part of the Kiser Research Lab at Northwestern University led by Professor Patrick Kiser.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
