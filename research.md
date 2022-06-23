@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Below are the different research opportunities I have participated in or am currently involved with.'
 image: assets/images/icra_present.jpg
 nav-menu: true
 ---
