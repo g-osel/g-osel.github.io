@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resume/CV/
+title: Resume/CV
 #description: Lorem ipsum dolor est
 #image: assets/images/pic11.jpg
 nav-menu: true
