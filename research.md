@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'Below are the different <br />research opportunities I have participated in <br />or am currently involved with.'
+description: 'Below are the different research opportunities I have participated in or am currently involved with.'
 image: assets/images/icra_present2.jpg
 nav-menu: true
 ---
