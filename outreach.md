@@ -1,5 +1,5 @@
 ---
-title: •	Community Involvement/Outreach 
+title: Community Involvement/Outreach 
 layout: landing
 description: 'Arguably my most enjoyable experiences come<br />from being an active member of my community<br />as well as paying forward the support I<br />have received in my journey so far.
 image: assets/images/charm_headset2.jpg
