@@ -6,11 +6,11 @@ title: Resume/CV
 nav-menu: true
 ---
 
-**CURRICULUM VITAE**
+<center><strong>CURRICULUM VITAE</strong></center>
 <iframe src="assets/pdfs/Osele_Obumneme_CV.pdf" width="100%" height="800px"></iframe>
 
-
-**AWARDS/FELLOWSHIP**
+<br />
+<center><strong>AWARDS/FELLOWSHIP</strong></center>
 
 RAISE: Research, Action, and Impact for Strategic Engagement Doctoral Fellowship (2022)
 
