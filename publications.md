@@ -4,7 +4,6 @@ title: Presentations and Publications
 #image: assets/images/publications_icon.jpg
 nav-menu: true
 ---
-**PRESENTATION AND PUBLICATIONS**
 
 _Refereed Conference Articles_
 
