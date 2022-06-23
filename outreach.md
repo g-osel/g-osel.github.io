@@ -2,7 +2,7 @@
 title: Community Involvement/Outreach
 layout: landing
 description: 'Arguably my most enjoyable experiences come from being an active member of my community as well as paying forward the support I have received in my journey so far'
-image: assets/images/charm_headset2.jpg
+image: assets/images/ge_outreach.jpg
 nav-menu: true
 ---
 
