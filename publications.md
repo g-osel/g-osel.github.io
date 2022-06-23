@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-image: assets/images/pic11.jpg
+image: assets/images/publications_icon.jpg
 nav-menu: true
 ---
 
