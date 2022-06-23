@@ -2,7 +2,7 @@
 layout: post
 title: About Author
 #description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/Headshot.jpg
 nav-menu: true
 ---
 
