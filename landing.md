@@ -23,14 +23,14 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/_ME_310_EXPE_Presentation.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>ME 310 Project (Oasis & Nomad: An Electric Construction Vehicle Support Solution)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>As part of the ME310 Global Design course at Stanford University, my teammates and I, both from Stanford University and Blekinge Institute of Technology in Sweden, were tasked by a corporate sponsor (Volvo CE) with supporting the adoption of Electric Construction Vehicles in areas with broken or non-existent energy infrastructure. Click the link to learn more about our project outcomes.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
