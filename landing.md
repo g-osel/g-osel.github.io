@@ -126,7 +126,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Independent Mechatronics Project: Soft Robotic Hand</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>In collaboration with a friend, I created a low-cost silicone hand model embedded with nylon wire with joints that are adjusted using servo motors tuned by a rotary encoder. The data acquired from the rotary encoder is sent to a silicone mold hand model embedded with nylon wiring that is adjusted via tendon driven actuation.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
