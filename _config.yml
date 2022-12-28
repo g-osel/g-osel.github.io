@@ -11,7 +11,7 @@ city: Stanford
 state: CA
 zip_code: 94305
 country: United States of America
-phone: (470) 435-1425
+# phone: (470) 435-1425
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
