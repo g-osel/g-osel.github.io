@@ -7,6 +7,23 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main">
+	
+<!-- 2022 -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>2022</h2>
+		</header>
+
+		<!-- <h4>Alternate</h4> -->
+		<ul class="alt">
+			<li> April - I am one of the recipients of the 2023 Stanford Community Impact Award </li>
+
+		</ul>
+
+		<!-- <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p> -->
+	</div>
+</section>
 
 <!-- 2022 -->
 <section id="one">
