@@ -1,6 +1,6 @@
 ---
 title: Community Involvement/Outreach
-layout: home
+layout: landing
 description: 'Arguably my most enjoyable experiences come from being an active member of my community as well as paying forward the support I have received in my journey so far. This section dives into some of the enriching experiences I have been fortunate to be a part of in more detail'
 image: assets/images/ge_outreach.jpg
 nav-menu: true
