@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CHARM Outreach Activities
-description: Lorem ipsum dolor est
+title: General Outreach Activities
+description: 
 image: assets/images/charm_outreach1.jpg
 nav-menu: true
 show_tile: false

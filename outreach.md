@@ -29,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>CHARM Lab</h3>
+					<h3>General Outreach Activities</h3>
 				</header>
-				<p>This page highlights some of the outreach efforts I have been involved in as part of my time in the CHARM Lab.</p>
+				<p>This page highlights some of the outreach efforts outside of a particular organization.</p>
 				<ul class="actions">
 					<li><a href="charm_outreach.html" class="button">Learn more</a></li>
 				</ul>
