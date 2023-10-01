@@ -16,6 +16,8 @@ Caleb Whittaker
 
 Research Mentees
 Olivia Tomasetti - PhD Rotator
+
+
 Frances Bujah Raphael - Stanford Undergraduate Research Institute
 Natalia Reyes - Stanford Robotics Center Summer Research Program
 Wudase Yousef - Stanford Robotics Center Summer Research Program
