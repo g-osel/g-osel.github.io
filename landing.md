@@ -10,13 +10,15 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!--<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
+
+	
 </section>
 
 <!-- Two -->
@@ -32,7 +34,7 @@ nav-menu: true
 				</header>
 				<p>As part of the ME310 Global Design course at Stanford University, my teammates and I, both from Stanford University and Blekinge Institute of Technology in Sweden, were tasked by a corporate sponsor (Volvo CE) with supporting the adoption of Electric Construction Vehicles in areas with broken or non-existent energy infrastructure. Click the link to learn more about our project outcomes.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="mixedreality.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
