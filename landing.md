@@ -40,17 +40,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="https://me210mahogany.weebly.com/" class="image">
+			<img src="{% link assets/images/IMG_0672.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Mahogany in Motion: Autonomous Robot for ME 210 Challenge</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>An autonomous robot tasked with "herding sheep" (transporting balls) from a designated loading area to a scoring area with the ability to navigate holes in the playing field without losing any sheep.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://me210mahogany.weebly.com/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -88,17 +88,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="me333.html" class="image">
+			<img src="{% link assets/images/IMG_0189.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Introduction to	Mechatronics Project: Motor Controller</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>An intelligent motor driver using feedback control to accept a desired motor trajectory, execute that trajectory, and send the results back to your computer for plotting.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="me333.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
