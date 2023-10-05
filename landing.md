@@ -24,7 +24,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="me310.html" class="image">
 			<img src="{% link assets/images/ME_310_EXPE_Presentation.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -34,7 +34,7 @@ nav-menu: true
 				</header>
 				<p>As part of the ME310 Global Design course at Stanford University, my teammates and I, both from Stanford University and Blekinge Institute of Technology in Sweden, were tasked by a corporate sponsor (Volvo CE) with supporting the adoption of Electric Construction Vehicles in areas with broken or non-existent energy infrastructure. Click the link to learn more about our project outcomes.</p>
 				<ul class="actions">
-					<li><a href="mixedreality.html" class="button">Learn more</a></li>
+					<li><a href="me310.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -56,17 +56,17 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="mixedreality.html" class="image">
+			<img src="{% link assets/images/IMG_7071.jpeg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Mixed Reality in Medicine Project</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>An App that uses a Mixed Reality Head Mounted Display (HMD) (HoloLens 2) to accomplish mouse and keyboard actions on a PC for individuals with motor disabilities.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="mixedreality.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
