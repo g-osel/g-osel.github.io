@@ -29,6 +29,23 @@ show_tile: false
 		</div>
 	</section>
 	<section>
+		<a href="aguata.html" class="image">
+			<img src="{% link assets/images/Flyer.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>AGUATA UNION OF ATLANTA YOUTH EMPOWERMENT PROGRAM</h3>
+				</header>
+				<p>Aguata Union of Atlanta is the diaspora branch for indigenes of Aguata Local Government area of Anambra State of Nigeria, residing in the state of Georgia. Formed in 2008, we are dedicated to advancing the community welfare of Aguata indigenes in Georgia as well as encouraging the development of our cultural and social heritage of Aguata Indigenes in Nigeria.  I serve as the Youth Coordinator for this organization and in 2023, the youth members (ages 21 to 30) of our diasporic community piloted a program to empower youths back in Aguata with a minimum of a high school certificate and no more than 30 years of age, who are indigents and/or reside in Aguata. Click the button to learn more.<br><br>
+                <ul class="actions">
+					<li><a href="aguata.html" class="button">Learn more</a></li>
+				</ul>
+                </p>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a>
 			<img src="{% link assets/images/IMG_8958.jpeg %}" alt="" data-position="top center" />
 		</a>
