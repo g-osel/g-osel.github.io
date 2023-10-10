@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="charm.html" class="image">
 			<img src="{% link assets/images/charm_horiz.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,13 +32,13 @@ nav-menu: true
 				</header>
 				<p>This page showcases the research I have been involved in during my time as a Graduate Researcher in CHARM Lab at Stanford University advised by Professor Allison Okamura.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="charm.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="rogers.html" class="image">
 			<img src="{% link assets/images/rogers-logo.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -46,9 +46,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Rogers Research Group at Northwestern University</h3>
 				</header>
-				<p>This page showcases the research I was involved in during my time as a Undergraduate Research Aide as part of the Roger Research Group at Northwestern University led by Professor John Rogers.</p>
+				<p>This page showcases the research I was involved in during my time as a Undergraduate Research Aide as part of the Roger Research Group at Northwestern University led by Professor John A. Rogers.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="rogers.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -72,7 +72,7 @@ nav-menu: true
 	<!-- </section> -->
 
 </section>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+
 
 
 <!-- Three -->

@@ -11,6 +11,7 @@ nav-menu: true
 
 <br />
 <center><strong>AWARDS/FELLOWSHIP</strong></center>
+Stanford Alumni Association Community Impact Award (2023)
 
 RAISE: Research, Action, and Impact for Strategic Engagement Doctoral Fellowship (2022)
 

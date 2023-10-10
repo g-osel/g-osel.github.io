@@ -37,14 +37,6 @@ show_tile: false
 	</div>
 </div>
 
-
-
-
-
-
-
-
-
 <!-- Content -->
 <div> This work was presented at the 2021 Stanford Medical Mixed Reality Symposium. Here is a <a href="http://youtu.be/D6Vt6CaK1L4?t=1730">video</a> of me presenting the work. The project was also featured in a Wu Tsai Neurosciences Institute <a href="https://neuroscience.stanford.edu/news/medical-mixed-reality-applications-take-center-stage-open-house-event?utm_source=Stanford+ALL&utm_campaign=cd2504742a-int_COPY_01&utm_medium=email&utm_term=0_c042b4aad7-cd2504742a-54965234">article</a> about medical mixed reality applications.</div> <br>
 

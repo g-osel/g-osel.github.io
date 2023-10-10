@@ -23,7 +23,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="charm_outreach.html" class="image">
+		<a href="gen_outreach.html" class="image">
 			<img src="{% link assets/images/charm_outreach1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,12 +33,11 @@ nav-menu: true
 				</header>
 				<p>This page highlights some of the outreach efforts outside of a particular organization.</p>
 				<ul class="actions">
-					<li><a href="charm_outreach.html" class="button">Learn more</a></li>
+					<li><a href="gen_outreach.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-
 	<section>
 		<a href="alpha.html" class="image">
 			<img src="{% link assets/images/AlphaOutreach1.jpg %}" alt="" data-position="top center" />
@@ -55,7 +54,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-
 	<section>
 		<a href="nsbe.html" class="image">
 			<img src="{% link assets/images/NSBE_AWFE1.jpg %}" alt="" data-position="25% 25%" />
@@ -72,23 +70,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<!-- <section>
-		<!-- <a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a> -->
-		<!-- <div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Northwestern University Biomedical Engineering Department Diversity, Equity, and Inclusion Committee</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section> -->
-
 	<section>
 		<a href="mentorship.html" class="image">
 			<img src="{% link assets/images/CalebWMentorship.jpeg %}" alt="" data-position="top center" />
@@ -106,45 +87,14 @@ nav-menu: true
 		</div>
 	</section>
 
-	<!-- <section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>National Pan-Hellenic Council at Northwestern University</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section> -->
+	
 
-	<!-- <section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>New Student and Family Programs at Northwestern University</h3>
-				</header>
-				<p>Talk about being a PA here. No need for button to separate page</p>
-				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
-			<!-- </div>
-		</div>
-	</section>
-</section> -->
+</section>
 
 
 
 <!-- Three -->
-<section id="three">
+<!--section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -154,6 +104,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section-->
 
 </div>

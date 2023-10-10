@@ -104,24 +104,40 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="bmecapstone.html" class="image">
+			<img src="{% link assets/images/bmecapstone.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Biomedical Engineering Design “Capstone” Project</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A pipetting robot for monitoring the efficacy of antiretroviral therapy (ART) in patients with HIV.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="bmecapstone.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="me314.html" class="image">
+			<img src="{% link assets/images/Final Project 1-1.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Machine	Dynamics Project</h3>
+				</header>
+				<p>An dynamic simulation of two swinging arms bouncing a ball off a stationary wall.</p>
+				<ul class="actions">
+					<li><a href="me314.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="sorohand.html" class="image">
+			<img src="{% link assets/images/soro1.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -130,7 +146,7 @@ nav-menu: true
 				</header>
 				<p>In collaboration with a friend, I created a low-cost silicone hand model embedded with nylon wire with joints that are adjusted using servo motors tuned by a rotary encoder. The data acquired from the rotary encoder is sent to a silicone mold hand model embedded with nylon wiring that is adjusted via tendon driven actuation.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="sorohand.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -152,33 +168,33 @@ nav-menu: true
 		</div>
 	</section-->
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a href="babynest.html" class="image">
+			<img src="{% link assets/images/Nest.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Design, Thinking, and Communication course project: Baby Nest</h3>
+					<h3>Design, Thinking, and Communication course project:The Baby Nest</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Worked in a team with a non-profit organization called Kids-In-Danger to design and manufacture a safe, engaging, and interactive entertainment unit for a baby.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="babynest.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="kaylacycle.html" class="image">
+			<img src="{% link assets/images/labelled final prototype.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Design, Thinking, and Communication course project: Kayla Cycle</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Worked in a team with doctors at the Shirley Ryan Ability Labs to design a bike for a child with cerebral palsy, that gives a parent or guardian control over pushing and steering.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="kaylacycle.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -202,7 +218,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!--section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -212,6 +228,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section-->
 
 </div>
