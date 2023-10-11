@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RAISE Project (Stanford Robotics Center Summer Research Program (SRC SRP))
+title: AGUATA UNION OF ATLANTA YOUTH EMPOWERMENT PROGRAM
 description: Lorem ipsum dolor est
 image: assets/images/Flyer.png
 nav-menu: false
