@@ -55,8 +55,6 @@ Here is a brief clip of me testing the app during development <br>
 
 
 
-</div>
-</div>
 
 </div>
 </section>
