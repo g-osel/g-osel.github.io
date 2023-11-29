@@ -97,15 +97,5 @@ multifunctionality as a feeding station and a detachable chair that lends to eas
 <p>The full report can be found at the links below<br>
 <a href="https://drive.google.com/file/d/19Nu3eaCBevq2Ewa9fdCxUFhK8Ml5y1X9/view?usp=sharing">Full Report</a><br>
 <br>
-
-
-
-
-
-
-
-
-</div>
 </section>
 
-</div>
