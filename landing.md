@@ -103,7 +103,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="bmecapstone.html" class="image">
 			<img src="{% link assets/images/bmecapstone.png %}" alt="" data-position="25% 25%" />
 		</a>
@@ -118,7 +118,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<section>
 		<a href="me314.html" class="image">
 			<img src="{% link assets/images/Final Project 1-1.gif %}" alt="" data-position="top center" />
@@ -135,7 +135,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="sorohand.html" class="image">
 			<img src="{% link assets/images/soro1.png %}" alt="" data-position="center center" />
 		</a>
@@ -150,7 +150,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
