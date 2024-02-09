@@ -25,7 +25,7 @@ nav-menu: true
 			</li>
 		</ul>
 	</div>
-	</section>
+</section>
 
 <!-- 2023 -->
 <section id="three">
