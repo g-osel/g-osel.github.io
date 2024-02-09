@@ -7,13 +7,13 @@ nav-menu: true
 
 <center><em>Refereed Conference Articles</em></center>
 
-**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Nicholas Cerone, Allison M. Okamura, and Harry H. Asada.  **.** _Tip-Clutching Winch for High Tensile Force Application with Soft Growing Robots._ IEEE International Conference on Robotics and Automation, 2024. Submmitted
+**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Nicholas Cerone, Allison M. Okamura, and Harry H. Asada.  **.** _Tip-Clutching Winch for High Tensile Force Application with Soft Growing Robots._ IEEE International Conference on Robotics and Automation, 2024. Accepted
 
 **O. Godson Osele,** Allison M. Okamura, and Brian H. Do **.** _[A Lightweight, High-Extension, Planar 3-Degree-of-Freedom Manipulator Using Pinched Bistable Tapes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811976)._ IEEE International Conference on Robotics and Automation, 2022.
 
-&dagger; *These authors contributed equally to this work*
-
 <center><em>Conference Presentations/Abstract</em></center>
+
+**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Nicholas Cerone, Allison M. Okamura, and Harry H. Asada.  **.** _Tip-Clutching Winch for High Tensile Force Application with Soft Growing Robots._ Stanford eWear Symposium, 2024. 
 
 **O. Godson Osele,** Allison M. Okamura, and Brian H. Do **.** _A Lightweight, High-Extension, Planar 3-Degree-of-Freedom Manipulator Using Pinched Bistable Tapes._ SystemX Robotics Fall Conference, 2022.
 
@@ -21,3 +21,6 @@ nav-menu: true
 
 <center><em>Invited Presentations</em></center>
 _Physically Assistive Soft Robots for Healthy Aging_ NSF ERC for Connected Health and Aging-in-Place Technology (CHAPTer) Double Webinar, 2022
+
+
+&dagger; *These authors contributed equally to this work*
