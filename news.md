@@ -17,6 +17,8 @@ nav-menu: true
 		</header>
 		<!-- <h4>Alternate</h4> -->
 		<ul class="alt">
+			<li> January -  I have accepted an internship offer from Auris Health Inc, a Johnson & Johnson company, to work as an R&D Sensor Systems intern</a>.
+			</li>
 			<li> January - I got an opportunity to present some of my work at the <a href="https://wearable.su.domains/ewear-annual-meeting-symposium-2024/">2024 Stanford eWear Conference</a> <br> <div style="text-align: center"><img src="{% link assets/images/2024eWear.jpeg %}" alt="" width="500" </a>
 			</li>
 			<li> January -  My conference paper with my co-first author, <a href="https://kentarobarhydt.mit.edu/">Kentaro Barhydt</a> on a Tip-Clutching Winch for soft growing robots was accepted to the IEEE International Conference on Robotics and Automation (ICRA).</a>.
