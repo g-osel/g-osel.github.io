@@ -37,7 +37,7 @@ show_tile: false
 				<header class="major">
 					<h3>Tip-Clutching Winch for High Tensile Force Application with Soft Growing Robots</h3>
 				</header>
-				<p>Co-designed a device into which vine robots can insert themselves and anchor to via powerful overlapping belt friction. This work is still under review.</p>
+				<p>Co-designed a device into which vine robots can insert themselves and anchor to via powerful overlapping belt friction. This work has been accepted to 2024 International Conference on Robotics and Automation.</p>
 				<!--ul class="actions">
 					<li><a href="rogers.html" class="button">Learn more</a></li>
 				</ul-->
