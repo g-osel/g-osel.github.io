@@ -20,6 +20,8 @@ nav-menu: true
 **O. Godson Osele.** _Utilizing Mixed Reality Glasses as a Computer Peripheral Device for Users with Mobility Disabilities._ Stanford Medical Mixed Reality Symposium, 2021.<br>_Watch the presentation at this [link](https://www.youtube.com/watch?v=D6Vt6CaK1L4&t=1730s)_
 
 <center><em>Invited Presentations</em></center>
+Conference for Emerging Black Academics in STEM. Californiia Institute of Technology, Pasedena, CA, 2024
+
 _Physically Assistive Soft Robots for Healthy Aging_ NSF ERC for Connected Health and Aging-in-Place Technology (CHAPTer) Double Webinar, 2022
 
 

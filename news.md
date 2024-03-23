@@ -17,6 +17,8 @@ nav-menu: true
 		</header>
 		<!-- <h4>Alternate</h4> -->
 		<ul class="alt">
+			<li> April -  I got the opportunity to speak at the <a href="https://sites.google.com/view/bsec-cebas/home?authuser=1">2nd Annual Conference For Emerging Black Academics In STEM (CEBAS)</a>
+			</li>
 			<li> January -  I have accepted an internship offer from Auris Health Inc, a Johnson & Johnson company, to work as an R&D Sensor Systems intern.
 			</li>
 			<li> January - I got an opportunity to present some of my work at the <a href="https://wearable.su.domains/ewear-annual-meeting-symposium-2024/">2024 Stanford eWear Conference</a> <br> <div style="text-align: center"><img src="{% link assets/images/2024eWear.jpeg %}" alt="" width="500"> </div>
