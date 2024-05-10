@@ -30,7 +30,7 @@ show_tile: false
 	</section>
 	<section>
 		<a>
-			<img src="{% link assets/images/ICRA2024GraphicAbstract.jpeg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/ICRA2024GraphicAbstract.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
