@@ -7,7 +7,7 @@ nav-menu: true
 
 <center><em>Refereed Conference Articles</em></center>
 
-**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Nicholas Cerone, Allison M. Okamura, and Harry H. Asada.  **.** _Tip-Clutching Winch for High Tensile Force Application with Soft Growing Robots._ IEEE International Conference on Robotics and Automation, 2024. Accepted
+**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Nicholas Cerone, Allison M. Okamura, and Harry H. Asada.  **.** _[Tip-Clutching Winch for High Tensile Force Application with Soft Growing Robot](https://ieeexplore.ieee.org/document/10610362)._ IEEE International Conference on Robotics and Automation, 2024. 
 
 **O. Godson Osele,** Allison M. Okamura, and Brian H. Do **.** _[A Lightweight, High-Extension, Planar 3-Degree-of-Freedom Manipulator Using Pinched Bistable Tapes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811976)._ IEEE International Conference on Robotics and Automation, 2022.
 
