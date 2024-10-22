@@ -29,7 +29,7 @@ show_tile: false
 		</div>
 	</section>
 	<section>
-		<a>
+		<a href="https://doi.org/10.1109/ICRA57147.2024.10610362" class="image">
 			<img src="{% link assets/images/ICRA2024GraphicAbstract.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -40,7 +40,7 @@ show_tile: false
 				<p>Co-designed a device into which vine robots can insert themselves and anchor to via powerful overlapping belt friction</p>
 				<ul class="actions">
 					<li><a href="https://doi.org/10.1109/ICRA57147.2024.10610362" class="button">Learn more</a></li>
-				</ul-->
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -50,4 +50,4 @@ show_tile: false
 
 
 
-</div>
+
