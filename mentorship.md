@@ -67,5 +67,8 @@ Enhancing Diversity in Graduate Engineering Mentee via Stanford Office of the Vi
 - Baiyu Shi
 - Larry Marshall
 
+Research, Action, and Impact through Strategic Engagement Doctoral Fellowship Mentee via Stanford Office of the Vice Provost of Graduate Education
+- Bernardita Ried Guachalla
+
 
 
