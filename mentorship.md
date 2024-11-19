@@ -57,6 +57,7 @@ Northwestern University - Black Mentorship Program
 - Caleb Whittaker
 
 Research Mentees
+- Qianhe Ye - Masters Rotator
 - Olivia Tomasetti - PhD Rotator
 - Frances Bujah Raphael - Stanford Undergraduate Research Institute
 - Natalia Reyes - Stanford Robotics Center Summer Research Program
@@ -64,6 +65,7 @@ Research Mentees
 
 Enhancing Diversity in Graduate Engineering Mentee via Stanford Office of the Vice Provost of Graduate Education
 - Baiyu Shi
+- Larry Marshall
 
 
 
