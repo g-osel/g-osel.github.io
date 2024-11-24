@@ -52,50 +52,9 @@ multifunctionality as a feeding station and a detachable chair that lends to eas
 <img src="assets/images/IMG_2048.JPG" width="400" height="600" />
 <img src="assets/images/IMG_2051.JPG" width="400" height="600" />
 </center>
-<!--center><iframe src="assets/pdfs/ME310_poster.pdf" width="100%" height="800px"></iframe></center-->
-
-<!--span class="image fit"><img src="{% link assets/images/ME310_poster.jpg %}" alt="" /></span-->
-<!--h3>The Team</h3-->
-<!--div class="row">
-	<div class="6u 12u$(small)">
-		<h4>Stanford University</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h4>Blekinge Institute of Technology</h4>
-		<ol>
-			<li>Hedvig Ernst</li>
-			<li>Karl-Henrik Anderson</li>
-			<li>Ludwig Neuman</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-	</div> 
-</div-->
-
-<!--div class="center">
-	<div class="center">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/IMG_1464.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/IMG_1451.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/ChargingPanelIso.jpg %}" alt="" /></span></div>
-	</div>
-</div-->
-<!--div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/ChargingPanelIso.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/SMMR.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/IMG_7071.jpeg %}" alt="" /></span></div>
-	</div>
-</div-->
-<br>
 
 <p>The full report can be found at the links below<br>
 <a href="https://drive.google.com/file/d/19Nu3eaCBevq2Ewa9fdCxUFhK8Ml5y1X9/view?usp=sharing">Full Report</a><br>
 <br>
-</section>
+
 

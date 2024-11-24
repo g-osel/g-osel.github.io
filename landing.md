@@ -71,6 +71,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="me303.html" class="image">
+			<img src="{% link assets/images/SoftHandSplachImage.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Soft Robotics Project: Design of an Underactuated Origami Hand</h3>
+				</header>
+				<p>Worked in a team of 3 to design, model and fabricate a soft 3D printed under-actuated origami hand consisting of the origami unit cells.</p>
+				<ul class="actions">
+					<li><a href="me303.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<!--section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
