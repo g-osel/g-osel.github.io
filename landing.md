@@ -71,7 +71,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--section>
 		<a href="me303.html" class="image">
 			<img src="{% link assets/images/SoftHandSplachImage.gif %}" alt="" data-position="top center" />
 		</a>
@@ -86,7 +86,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section-->
 	<!--section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
