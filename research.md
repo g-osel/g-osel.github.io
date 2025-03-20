@@ -2,7 +2,7 @@
 title: Research
 layout: landing
 description: 'Below are the different research opportunities I have participated in or am currently involved with.'
-image: assets/images/icra_present2.jpg
+image: assets/images/icra_present2.JPG
 nav-menu: true
 ---
 
