@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentations and Publications
-#image: assets/images/TapeRobot.png
+image: assets/images/icra_present2.JPG
 nav-menu: true
 ---
 
