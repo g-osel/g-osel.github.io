@@ -42,7 +42,7 @@ show_tile: false
 
 Here is a brief clip of me testing the app during development <br>
 
-<a href="https://drive.google.com/file/d/1Pp0yR2hRWplXKCQJ_eaFlGLClpwN2BWn/view?usp=sharing">Demo</a>
+<a href="https://drive.google.com/file/d/1Pp0yR2hRWplXKCQJ_eaFlGLClpwN2BWn/view?usp=drive_link">Demo</a>
 
 <!--iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe -->
 
