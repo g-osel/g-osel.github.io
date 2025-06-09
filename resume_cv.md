@@ -11,11 +11,9 @@ nav-menu: true
 
 <br />
 <center><strong>AWARDS/FELLOWSHIP</strong></center>
-Dean’s Graduate Student Advisory Council (DGSAC) Exceptional Graduate Student Award(2025)
+Dean’s Graduate Student Advisory Council (DGSAC) Exceptional Graduate Student Award (2025)
 
 Stanford Black Engineering Graduate Student Association (BEGSA) Graduate Student Excellence Award (2025)
-
-Stanford Alumni Association Community Impact Award (2025)
 
 Stanford Alumni Association Community Impact Award (2025)
 
