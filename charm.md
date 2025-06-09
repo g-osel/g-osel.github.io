@@ -13,17 +13,17 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://ieeexplore.ieee.org/document/9811976" class="image">
-			<img src="{% link assets/images/tapebot.jpg %}" alt="" data-position="center center" />
+		<a href="https://doi.org/10.48550/arXiv.2505.11593" class="image">
+			<img src="{% link assets/images/IROS2025_splashFigure_v3.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>A Lightweight, High-Extension, Planar 3-Degree-of-Freedom Manipulator Using Pinched Tape Springs</h3>
+					<h3>Mechanically Programming the Cross-Sectional Shape of Soft Growing Robotic Structures for Patient Transfer</h3>
 				</header>
-				<p>Co-designed a lightweight manipulator capable of high extension ratios by locally modifying the transverse curvature of steel tape springs</p>
+				<p>A method of mechanically programming the cross-section of soft everting robotic structures using flexible strips that constrain radial expansion between points along the outer membrane.</p>
 				<ul class="actions">
-					<li><a href="https://ieeexplore.ieee.org/document/9811976" class="button">Learn more</a></li>
+					<li><a href="https://doi.org/10.48550/arXiv.2505.11593" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -40,6 +40,22 @@ show_tile: false
 				<p>Co-designed a device into which vine robots can insert themselves and anchor to via powerful overlapping belt friction</p>
 				<ul class="actions">
 					<li><a href="https://doi.org/10.1109/ICRA57147.2024.10610362" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://ieeexplore.ieee.org/document/9811976" class="image">
+			<img src="{% link assets/images/tapebot.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>A Lightweight, High-Extension, Planar 3-Degree-of-Freedom Manipulator Using Pinched Tape Springs</h3>
+				</header>
+				<p>Co-designed a lightweight manipulator capable of high extension ratios by locally modifying the transverse curvature of steel tape springs</p>
+				<ul class="actions">
+					<li><a href="https://ieeexplore.ieee.org/document/9811976" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
