@@ -5,7 +5,13 @@ image: assets/images/icra_present2.JPG
 nav-menu: true
 ---
 
-<center><em>Refereed Conference Articles</em></center>
+<center><em>Refereed Conference and Journal Articles</em></center>
+
+**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Sreela Kodali, Cosima du Pasquier, Chase M. Hartquist, H. Harry Asada, and Allison M. Okamura.  **.** _[Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps](https://arxiv.org/abs/2505.10552)._ Science Advances, 2025. 
+
+**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Teagan Sullivan, Harry H. Asada, and Allison M. Okamura.  **.** _[Mechanically Programming the Cross-Sectional Shape of Soft Growing Robotic Structures for Patient Transfer](https://arxiv.org/abs/2505.11593)._ IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025. 
+
+**O. Godson Osele**&dagger;, Crys Winston, and Ihsan Mekki.  **.** _[Am I The Villain?: How Critical Reflection Gaps in Individual University Decision-Makers Affect Access Programs](https://peer.asee.org/am-i-the-villain-how-critical-reflection-gaps-in-individual-university-decision-makers-affect-access-programs)._ American Society of Engineering Education Annual Conference & Exposition, 2025. 
 
 **O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Nicholas Cerone, Allison M. Okamura, and Harry H. Asada.  **.** _[Tip-Clutching Winch for High Tensile Force Application with Soft Growing Robot](https://ieeexplore.ieee.org/document/10610362)._ IEEE International Conference on Robotics and Automation, 2024. 
 
