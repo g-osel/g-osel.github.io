@@ -7,7 +7,7 @@ nav-menu: true
 
 <center><em>Refereed Conference and Journal Articles</em></center>
 
-**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Sreela Kodali, Cosima du Pasquier, Chase M. Hartquist, H. Harry Asada, and Allison M. Okamura.  **.** _[Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps](https://arxiv.org/abs/2505.10552)._ Science Advances, 2025. 
+**O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Sreela Kodali, Cosima du Pasquier, Chase M. Hartquist, H. Harry Asada, and Allison M. Okamura.  **.** _[Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps](https://www.science.org/doi/10.1126/sciadv.ady9581)._ Science Advances, 2025. 
 
 **O. Godson Osele**&dagger;, Kentaro Barhydt&dagger;, Teagan Sullivan, Harry H. Asada, and Allison M. Okamura.  **.** _[Mechanically Programming the Cross-Sectional Shape of Soft Growing Robotic Structures for Patient Transfer](https://arxiv.org/abs/2505.11593)._ IEEE/RSJ International Conference on Intelligent Robots and Systems, 2025. 
 

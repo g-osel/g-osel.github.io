@@ -13,6 +13,22 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://www.science.org/doi/10.1126/sciadv.ady9581" class="image">
+			<img src="{% link assets/images/HumanLift_RevA_compressedPDF2.pdf %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Loop closure grasping: Topological transformations enable strong, gentle, and versatile grasps</h3>
+				</header>
+				<p>Grasping mechanisms must both create and subsequently hold grasps that permit safe and effective object manipulation. Traditional mechanisms address the different functional requirements of grasp creation and grasp holding using a single morphology, but have yet to achieve the simultaneous strength, gentleness, and versatility needed for many applications. We present “loop closure grasping,” a method of robotic grasping that addresses these different functional requirements through topological transformations between open-loop and closed-loop morphologies. Topologically open-loop mechanisms enable versatile grasp creation via unencumbered tip movement around the object, but lack the simultaneous strength and compliance needed for holding heavy yet fragile objects. Closed-loop mechanisms (e.g., slings) can bear heavy loads in a passive cradled state with effectively infinite bending compliance, but present challenges for grasp creation because the object must somehow enter the loop. Loop closure grasping circumvents the tradeoffs of single-morphology designs by transforming the mechanism’s topology from open-loop to closed-loop between the grasp creation and holding stages. We formalize these morphologies for grasping, formulate the loop closure grasping method, and present a design architecture and implementation using soft growing inflated beams, winches, and clamps. Finally, we demonstrate grasps involving historically challenging objects, environments, and configurations.</p>
+				<ul class="actions">
+					<li><a href="https://www.science.org/doi/10.1126/sciadv.ady9581" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://doi.org/10.48550/arXiv.2505.11593" class="image">
 			<img src="{% link assets/images/IROS2025_splashFigure_v3.jpg %}" alt="" data-position="top center" />
 		</a>
