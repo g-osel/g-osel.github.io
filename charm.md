@@ -14,7 +14,7 @@ show_tile: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.science.org/doi/10.1126/sciadv.ady9581" class="image">
-			<img src="{% link assets/images/HumanLift_RevA_compressedPDF2.pdf %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/HumanLift_RevA_compressedPDF2.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
